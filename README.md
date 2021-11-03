@@ -1,4 +1,4 @@
-## DevFinaces
+## DevFinances
 Projeto desenvolvido para administrar melhor ganhos e gastos. Projeto realizado na Maratona Discover @Rocketseat.
 
 #### Funcionalidades
