@@ -8,7 +8,7 @@ Projeto desenvolvido para administrar melhor ganhos e gastos. Projeto realizado 
 * Float Button
 * Scrollbar personalizado
 * Toast de erro - (Modal)
-* Mudança de cor no Card 'total' - (+$0,00 verde ↑ e -$0,01 vermelho ↓)
+* Mudança de cor no Card 'total' 
 
 ## Tecnologias 🚀
 Esse projeto foi desenvolvido com as seguintes tecnologias:
