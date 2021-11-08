@@ -70,7 +70,7 @@ header{
 }
 
 .card.total {
-    background: #49AA26;
+    background: #100dd1;
     color: white;
 }
 /*Table ===========================*/
@@ -112,11 +112,11 @@ td.description {
 }
 
 td.income {
-    color: #12a454;
+    color: #e00707;
 }
 
 td.expense {
-    color: #e92929 ;
+    color: #1521ca ;
 }
 /* Footer ==========================*/
 footer {
