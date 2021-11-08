@@ -78,8 +78,10 @@ header{
     width: 100%;
     border-spacing: 0 0.5rem;
 }
+
 table thead tr th:first-child,
 table thead tr td:first-child{
+
     border-radius:  0.25rem 0 0 0.25rem;
 }
 
