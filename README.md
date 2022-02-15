@@ -1,6 +1,8 @@
 ## DevFinances
 Projeto desenvolvido para administrar melhor ganhos e gastos. Projeto realizado na Maratona Discover @Rocketseat.
 
+![Screenshot_10](https://user-images.githubusercontent.com/19551655/154073490-71615552-32c2-4285-b376-45b61ef1639f.png)
+
 #### Funcionalidades
 * Site para administrar ganhos e gastos (controle financeiro)
 * Cadastro e exclusão de transações
